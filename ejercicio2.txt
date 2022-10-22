@@ -1,0 +1,25 @@
+Responder las siguientes preguntas
+
+Que es un objeto?
+Un objeto es un conjunto de parametros.
+
+Que es una clase?
+Una Clase es una instancia que utilizamos para crear objetos.
+
+A que se llama metodo constructor?
+Es la función que permite crear un objeto a partir de los parámetros requeridos.
+
+Que son los modificadores de acceso?
+Son los que permiten saber que atributos pueden ser cambiados directamente por el usuario o no.
+
+Que diferencia hay entre uno privado y uno protegido?
+El "privado" solo puede ser utilizado dentro de la clase en la que se definió pero el "protegido" le da acceso a las clases hija.
+
+Cuando se usa el this?
+Se utiliza cuando se construye la clase.
+
+Cuando se usa el super?
+El super se usa en las clases hija para agregar los atributos de la clase padre.
+
+A que se llama sub-clase, o clase hija?
+Una clase hija es una clase nueva que esta compuesta por una clase ya creada para utilizar sus atributos.
