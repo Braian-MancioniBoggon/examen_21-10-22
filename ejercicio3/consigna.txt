@@ -1,0 +1,3 @@
+Utilizar lo aprendido y crear una Clase, la cual tenga metedos y atributos,
+una instancia de dicha clase, y por ultimo aplicar lo aprendido de Herencia
+y crear una clase que la herede
