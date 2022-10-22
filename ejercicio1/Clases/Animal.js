@@ -1,10 +1,10 @@
 "use strict";
 exports.__esModule = true;
-//Creo la clase Dog
-var Dog = /** @class */ (function () {
-    function Dog(name) {
+//Creo la clase Animal
+var Animal = /** @class */ (function () {
+    function Animal(name) {
         this.name = name;
     }
-    return Dog;
+    return Animal;
 }());
-exports["default"] = Dog;
+exports["default"] = Animal;
